@@ -1,0 +1,1 @@
+insert into CUSTOMER_ENTITY values('CUSTOMER101','Bangalore','1999-02-01','144','cust','cust')
