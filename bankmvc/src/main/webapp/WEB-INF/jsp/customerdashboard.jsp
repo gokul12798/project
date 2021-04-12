@@ -58,7 +58,7 @@
 			padding: 0;
 			font-family: sans-serif;
 			color:white;
-			background: linear-gradient(to right, #610354, #053070);
+			background: linear-gradient(to right,  #000000, #1565c0);
 			
 			}
 			ul {
