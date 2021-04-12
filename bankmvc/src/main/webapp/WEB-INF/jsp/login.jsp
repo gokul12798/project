@@ -23,7 +23,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
-	background: linear-gradient(to right, #610354, #053070);
+	background: linear-gradient(to right,  #000000, #1565c0);
 	}
 </style>
 
